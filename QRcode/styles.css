@@ -1,0 +1,28 @@
+body{
+	background-color: hsl(212, 45%, 89%);
+	padding: 20px;
+}
+
+figure{
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+	display: table;
+	width: 1px;
+}
+
+img, figcaption{
+	display: table-row;
+}
+
+p{
+	font-size: 15px;
+	font-family: "Verdana";
+}
+#p1{
+	font-weight: 700;
+}
+
+#p2{
+	font-weight: 400;
+}
